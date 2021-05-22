@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "60a8390ac84e481d7c920393"
+  },
+  "active": true,
+  "title": "Board 1",
+  "owner": {
+    "$oid": "609fbab7c76a910f6869e3ab"
+  }
+},{
+  "_id": {
+    "$oid": "60a8399fc84e481d7c9203a0"
+  },
+  "active": true,
+  "title": "Project 1",
+  "owner": {
+    "$oid": "60a83874c84e481d7c920391"
+  }
+},{
+  "_id": {
+    "$oid": "60a83a91c84e481d7c9203b5"
+  },
+  "active": true,
+  "title": "Board 2",
+  "owner": {
+    "$oid": "60a83885c84e481d7c920392"
+  }
+},{
+  "_id": {
+    "$oid": "60a83bf0c84e481d7c9203bd"
+  },
+  "active": true,
+  "title": "Board 3",
+  "owner": {
+    "$oid": "60a83885c84e481d7c920392"
+  }
+}]
